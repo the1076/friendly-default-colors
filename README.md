@@ -1,6 +1,9 @@
 # Friendly Default Colors
 A collection of default colors as a set of css variables.
 
+Full filesize: 2.27kb
+Minified filesize: 1.76kb
+
 The colors are added to the `:root` scope so that they can be used as variables anywhere in your css. 
 
 Base Colors were collected from the "New Defaults" colors palette at http://clrs.cc/
